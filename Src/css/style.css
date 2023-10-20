@@ -67,6 +67,11 @@ body {
   -ms-flex-align: center;
   align-items: center;
   text-align: center;
+
+}
+
+.prsln{
+  margin-top: -90px;
 }
 
 a,
@@ -159,6 +164,11 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
+}
+
+.mycntnr{
+  
+bottom: 0px;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
@@ -532,6 +542,7 @@ a:focus {
 
 .about_section .img-box img {
   max-width: 100%;
+  border-radius: 15px;
 }
 
 .about_section .detail-box h3 {
