@@ -326,8 +326,9 @@ a:focus {
   display: inline-block;
   padding: 10px 15px;
   background-color: #00bbf0;
+  
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -347,6 +348,8 @@ a:focus {
   transition: all 0.3s;
   border: none;
 }
+
+
 
 .slider_section .detail-box .btn-box .btn2:hover {
   background-color: black;
@@ -495,7 +498,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -619,7 +622,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -628,6 +631,7 @@ a:focus {
 .why_section .btn-box a:hover {
   background-color: #007fa4;
 }
+
 
 /*team section */
 .team_section {
